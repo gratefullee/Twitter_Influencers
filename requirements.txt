@@ -1,0 +1,15 @@
+tweepy
+pandas
+numpy
+nltk
+sklearn
+string
+re
+wordcloud
+matplotlib
+gensim
+collections
+os
+tempfire
+seaborn
+csv
